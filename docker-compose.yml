@@ -37,7 +37,7 @@ services:
 
   app:
 
-    image: ghcr.io/ronalfcito/devops-flask-postgres:2.0.0
+    image: ghcr.io/ronalfcito/devops-flask-postgres:3.0.0
 
     container_name: flaskapp
 
