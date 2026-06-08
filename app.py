@@ -4,7 +4,7 @@ import psycopg2
 app = Flask(__name__)
 
 # NOTA: Para la Actividad 7, cambiarás este valor a "3.0.0"
-VERSION = "2.0.0" 
+VERSION = "3.0.0" 
 
 @app.route("/")
 def inicio():
